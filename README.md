@@ -2,7 +2,7 @@
 Here are some of the websites I use in my daily study and work.
 
 # Resource
-- [站长素材](https://sc.chinaz.com/){:target="_blank"}
+- [站长素材](https://sc.chinaz.com/){target="_blank"}
 - [wallhaven](https://wallhaven.cc/) - The best wallpapers on the Net!
 - [addog](https://www.addog.vip/) - 广告人的网址导航
 - [dowebok](https://www.dowebok.com/)

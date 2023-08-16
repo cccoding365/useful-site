@@ -1,11 +1,13 @@
 # useful-site
 Here are some of the websites I use in my daily study and work.
 
+> Tips: If you want to open the following link in a new TAB, hold down the `Ctrl` and click it.
+
 # Resource
-- [站长素材](https://sc.chinaz.com/)
+- [站长素材](https://sc.chinaz.com/) - 站长之家旗下素材网站
 - [wallhaven](https://wallhaven.cc/) - The best wallpapers on the Net!
 - [addog](https://www.addog.vip/) - 广告人的网址导航
-- [dowebok](https://www.dowebok.com/)
+- [dowebok](https://www.dowebok.com/) - 包含各种图片、字体和代码等素材
 - [今日热榜](https://tophub.today/) - 全网今日热点
 - [爱给](https://www.aigei.com/) - 让创作更简单
 - [觅元素](https://www.51yuansu.com/) - 专注于提供高质量版权素材图片免费下载

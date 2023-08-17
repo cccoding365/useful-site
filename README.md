@@ -16,6 +16,7 @@ Here are some of the websites I use in my daily study and work.
 - [icones](https://icones.js.org/) - Get icons
 - [feathericons](https://feathericons.com/) - Simply beautiful open source icons
 - [getemoji](https://getemoji.com/) - Copy and paste every emoji with 👍 no apps required. 😊
+- [File Samples](https://filesamples.com/) - Free File Samples to Download - 185 Types Available
 
 # Tools
 - [caniuse](https://caniuse.com/) - Support tables for HTML5, CSS3, etc

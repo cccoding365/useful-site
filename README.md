@@ -33,6 +33,7 @@ Here are some of the websites I use in my daily study and work.
 - [getwaves](https://getwaves.io/) - Make some waves!
 - [animista](https://animista.net/) - Play with a collection of ready-made CSS animations and download only those you will use.
 - [visualgo](https://visualgo.net/en) - Visualising data structures and algorithms through animation.
+- [pngreal](https://pngreal.com/) - Serves a group of online tools like, images related, taxes calculators, etc.
 
 # Tutorial
 - [MDN](https://developer.mozilla.org/) - Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
